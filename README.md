@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ooi! Eu sou Thulio Magno �
 ![Snake animation](https://github.com/tlmagno/tlmagno/blob/output/github-contribution-grid-snake.svg)
 
 <!--
